@@ -1,4 +1,5 @@
 # 1000 xp approx
 
 ### Zombie run - 190 xp (190)
-### Hordes at the gates- 150xp (340)
+### Housing Dispute - 40 xp (230)
+### Hordes at the gates- 150xp (380)
