@@ -4,6 +4,10 @@
 
 - 1 [zombie lord](https://2e.aonprd.com/Monsters.aspx?ID=1921) (40 xp)
 
+## Housing Dispute -- Mostly social (40xp)
+-  2 [Domovoi](https://2e.aonprd.com/Monsters.aspx?ID=1194) are fighting over ownership of this hovel. (20 a pop, 40xp)
+
+
 ## Hordes at the gates- a trivial, followed by a hard encounter (150xp)
 
 - 1 [Shambler Troop](https://2e.aonprd.com/Monsters.aspx?ID=1376) (30 xp)
