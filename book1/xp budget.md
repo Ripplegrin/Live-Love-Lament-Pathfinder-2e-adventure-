@@ -1,4 +1,4 @@
 # 1000 xp approx
 
-### Zombie run - 190 xp 
-### Hordes at the gates- 150xp
+### Zombie run - 190 xp (190)
+### Hordes at the gates- 150xp (340)
