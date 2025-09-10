@@ -26,7 +26,11 @@ Although tight on some things, the stronghold can provide edible albeit not imme
 
 #### Failure: 3-5 points
 
+Regrettably, food and bodies are both tight. You'll survive but not for an extended stay. Food supplies mean there's a timer of a week unless the pathfinders want to risk going out. Defenses are functional but would falter easily. 1 additional shambler troop will arrive but with only 30 hp.
+
 #### Critical Failure: less than 3 points
+
+Hope is nearly lost. Despite the efforts of the pathfinders, morale is at rock bottom. Food supplies are nonexistant, weapons less than that and an attack could easily result in mass deaths. The players will fight 2 shambler troops instead of 1 to represent the inability of the base to defend itself.
 
 ## Hordes at the gates- a trivial, followed by a hard encounter (150xp)
 
