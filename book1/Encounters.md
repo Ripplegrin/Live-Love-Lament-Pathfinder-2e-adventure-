@@ -16,6 +16,12 @@ Victory Point Subsystem-
 
 The stronghold is attacked by hordes of villagers or passerby every four hours, assuming they don't deal with the leaders of these attacks. They saw them once, only after beating one of the hordes, but that meeting resulted in the death of a guard vice-captain
 
+The following skills can be used and are explained more in depth in the corresponding section.
+
+Crafting, Nature, Survival, Cooking Lore
+Arcana, Religion, Occultism
+Medicine, Stealth, Warfare Lore
+
 #### Great Success: 11+ points
 
 The survivors are prepared for hell, high water and probably a minor apocalypse. They are capable of supplying adventurers with food the entire time they are here and have enough defenses prepped to injure the hordes long before they arrive. Any shambler troop comes in with 30 less hit points. 
