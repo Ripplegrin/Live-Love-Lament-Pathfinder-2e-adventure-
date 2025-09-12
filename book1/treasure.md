@@ -5,12 +5,13 @@ Book 1: 850 gp
 - Striking Rune (65 gp)
 - jewelery (5gp)
 - 7 silver, 2 copper (0.72 gp)
+- Ghost Charge Moderate (10 gp)
 - Silver religious symbol (2 gp)
 - Vitalizing Rune (150 gp)
 - Aeon Stone (Repairing) (75 gp)
 - Aeon Stone (Polished Pebble) (50 gp)
 - Aeon Stone (Pearly White Spindle) (60 gp)
-- Aeon Stone (Dusty Rose Prism) (50 gp)  (520gp currently)
+- Aeon Stone (Dusty Rose Prism) (50 gp)  (530gp currently)
 
 Book 2: 1350 gp
 
